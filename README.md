@@ -1,17 +1,23 @@
-## Hi there 👋
-https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif
+<div align="center">
+<h1>Добро пожаловать</h1>
+</div>
 
-<!--
-**d2min/d2min** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Обо мне
+📱 Mobile Developer
+Моя основная специализация — разработка мобильных приложений на Flutter. Я верю, что хороший код это не только про работающие фичи, но и про элегантность архитектуры.
 
-Here are some ideas to get you started:
+💡 Что меня драйвит:
+- Писать чистый код и видеть, как оживают интерфейсы.
+- Постоянно быть на острие: изучать новые инструменты и подходы.
+- Прокачивать алгоритмическое мышление через решение сложных задач.
+🛠 Мой полный технический стек и любимые инструменты подробно описаны ниже
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Навыки
+[![My Skills](https://skillicons.dev/icons?i=dart,flutter)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=react,html,css,js,ts)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=bash,linux,docker,mongodb,mysql,git)](https://skillicons.dev)
+
+### Инструменты
+[![My Skills](https://skillicons.dev/icons?i=github,gitlab,postman,vscode,androidstudio)](https://skillicons.dev)
